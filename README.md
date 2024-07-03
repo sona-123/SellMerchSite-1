@@ -1,6 +1,6 @@
 <h1 align="center" id="title">E Commerce Website</h1>
 
-<p align="center"><img src="[https://socialify.git.ci/gauravsahay007/Portfolio/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light](https://socialify.git.ci/sona-123/SellMerchSite-1/image?font=KoHo&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/sona-123/SellMerchSite-1/image?font=KoHo&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" alt="project-image"></p>
 
 <p id="description">• Co-authored the backend of the SellMerchSite also wrote API calls from frontend to fetch relevant data from backend.<br>• Developed using Node js framework with MongoDB database. Implemented the frontend in React.js and used fetch for API calls.<br>• Designed database structure and relations to store multiple accounts and admin profiles.</p>
 
